@@ -11,4 +11,4 @@ Welcome to my repository of Python mini-projects! This is where I track my progr
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/daivik89/my-python-projects.git](https://github.com/daivik89/my-python-projects.git)
+   git clone https://github.com/daivik89/my-python-projects.git
