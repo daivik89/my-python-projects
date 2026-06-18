@@ -1,18 +1,70 @@
 # My Python Projects 🚀
 
-Welcome to my repository of Python mini-projects! This is where I track my progress as I learn programming, experiment with data types, and build fun scripts.
+<!-- Repository Badges to make it look professional -->
+![Python Version](https://img.shields.io/badge/python-3.14%2B-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
 
-## 📁 What's Inside?
+Welcome to my portfolio of Python core applications! This repository tracks my development journey as I master programming paradigms, implement efficient data structures, and practice algorithmic logic.
 
+---
 
-- **firstprogram.py** 🚀: My very first Python script! It introduces basics like printing text to the console and handling simple user input.
+## 📂 Repository Blueprint
 
-- **datatypes.py** 🔢: A practice script exploring various Python data types, including integers, floats, strings, booleans, and lists.
+An organized directory mapping foundational scripts to their respective computational concepts:
 
-- **comment.py** 📝: This script demonstrates how to use comments in Python, including single-line and multi-line comments for better code readability.
+| File Name | 🏷️ Core Concept | 🛠️ Implementation Highlights |
+| :--- | :--- | :--- |
+| `firstprogram.py` | Core Syntax | Standard Output (`print`) & Console I/O streams. |
+| `datatypes.py` | Data Structures | Memory allocation for integers, floats, strings, and lists. |
+| `comment.py` | Code Readability | Documentation standards using inline `#` and block `"""` docstrings. |
+| `operators.py` | Mathematical Logic | Evaluation of arithmetic, relational, and assignment operations. |
+| `type_conversion.py` | Type Safety | Explicit type casting and memory-safe type mutation (`int()`, `str()`). |
+| `input.py` | Dynamic Interaction | Nested functional wrappers for data capture and parsing. |
+| `practice1.py` | Algorithmic Logic | Functional computational tracking (Summation & Differences). |
 
-## 🛠️ How to Run These Projects
+---
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/daivik89/my-python-projects.git
+## 🔍 Code Deep Dive & Implementation
+
+Click on any section below to expand and inspect the underlying script logic:
+
+<details>
+<summary>📂 View operators.py</summary>
+
+```python
+# arithmetic operators
+a = 5
+b = 2
+
+print(a + b)
+print(a - b)
+print(a / b)
+print(a * b)
+print(a % b) # remainder
+print(a ** b) # a^b
+
+# relational/comparison operators
+A = 20
+B = 50
+print(A == B) # False
+print(A != B) # True
+print(A < B)  # True
+print(A > B)  # False
+print(A <= B) # true
+print(A >= B) # false
+
+# assignment operators
+d = 26
+d += 5 # d = d + 5
+print("d+=", d)
+
+y = 10
+y -= 3 # y = y - 3
+print("y-=", y)
+
+x = 4
+x -= 1 # x = x - 1
+print("x-=", x)
+
+w = 3
