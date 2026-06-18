@@ -1,0 +1,6 @@
+name = input("enter your name:")
+birthyear = int(input ("enter your birth year:"))
+marks = float(input("enter your marks:"))
+print(" hello",name)
+print("your birthyear is",birthyear)
+print("your marks are", marks ,"out of 80" )
