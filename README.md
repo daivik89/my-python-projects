@@ -4,8 +4,12 @@ Welcome to my repository of Python mini-projects! This is where I track my progr
 
 ## 📁 What's Inside?
 
-* **`firstprogram.py`**: My very first Python script! It introduces basics like printing text to the console and handling simple user input.
-* **`datatypes.py`**: A practice script exploring various Python data types, including integers, floats, strings, booleans, and lists.
+
+- **firstprogram.py** 🚀: My very first Python script! It introduces basics like printing text to the console and handling simple user input.
+
+- **datatypes.py** 🔢: A practice script exploring various Python data types, including integers, floats, strings, booleans, and lists.
+
+- **comment.py** 📝: This script demonstrates how to use comments in Python, including single-line and multi-line comments for better code readability.
 
 ## 🛠️ How to Run These Projects
 
